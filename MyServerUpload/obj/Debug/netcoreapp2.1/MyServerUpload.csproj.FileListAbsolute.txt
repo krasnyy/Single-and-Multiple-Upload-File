@@ -1,0 +1,16 @@
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\bin\Debug\netcoreapp2.1\MyServerUpload.deps.json
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\bin\Debug\netcoreapp2.1\MyServerUpload.runtimeconfig.json
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\bin\Debug\netcoreapp2.1\MyServerUpload.runtimeconfig.dev.json
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\bin\Debug\netcoreapp2.1\MyServerUpload.dll
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\obj\Debug\netcoreapp2.1\MyServerUpload.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\obj\Debug\netcoreapp2.1\MyServerUpload.RazorAssemblyInfo.cache
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\obj\Debug\netcoreapp2.1\MyServerUpload.RazorAssemblyInfo.cs
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\obj\Debug\netcoreapp2.1\MyServerUpload.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\obj\Debug\netcoreapp2.1\MyServerUpload.AssemblyInfo.cs
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\obj\Debug\netcoreapp2.1\MyServerUpload.RazorTargetAssemblyInfo.cache
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\obj\Debug\netcoreapp2.1\MyServerUpload.genruntimeconfig.cache
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\bin\Debug\netcoreapp2.1\MyServerUpload.pdb
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\obj\Debug\netcoreapp2.1\MyServerUpload.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\obj\Debug\netcoreapp2.1\MyServerUpload.dll
+C:\Users\Monster\source\repos\MyServerUpload\MyServerUpload\obj\Debug\netcoreapp2.1\MyServerUpload.pdb
